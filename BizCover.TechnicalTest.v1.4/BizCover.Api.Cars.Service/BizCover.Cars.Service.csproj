@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BizCover.Api.Cars.Contract\BizCover.Cars.Contract.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="BizCover.Repository.Cars">
+      <HintPath>..\packages\BizCover.Repository.Cars.1.0.0\lib\netstandard1.2\BizCover.Repository.Cars.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

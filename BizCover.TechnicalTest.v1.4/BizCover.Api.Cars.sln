@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29728.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{F6519315-00E7-4440-9BAB-21C997629265}"
+	ProjectSection(SolutionItems) = preProject
+		..\readme.md = ..\readme.md
+	EndProjectSection
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BizCover.Cars.Data", "BizCover.Api.Cars.Data\BizCover.Cars.Data.csproj", "{A51BEB08-150C-42BC-A794-AC40262713F7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BizCover.Cars.Service", "BizCover.Api.Cars.Service\BizCover.Cars.Service.csproj", "{3CE1928C-C900-4DDC-9DF3-9CB075CC68E8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BizCover.Cars.Contract", "BizCover.Api.Cars.Contract\BizCover.Cars.Contract.csproj", "{0BD79B7C-1956-4C00-8F2C-A6ABFB86AA51}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BizCover.Cars.Api", "BizCover.Api.Cars\BizCover.Cars.Api.csproj", "{D39910FE-6CBA-417C-979D-F1817A1DE5A8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BizCover.Cars.Tests", "BizCover.Api.Cars.Tests\BizCover.Cars.Tests.csproj", "{6451B1A9-250C-48C8-A7ED-5D5A97095245}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A51BEB08-150C-42BC-A794-AC40262713F7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A51BEB08-150C-42BC-A794-AC40262713F7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A51BEB08-150C-42BC-A794-AC40262713F7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A51BEB08-150C-42BC-A794-AC40262713F7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3CE1928C-C900-4DDC-9DF3-9CB075CC68E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CE1928C-C900-4DDC-9DF3-9CB075CC68E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CE1928C-C900-4DDC-9DF3-9CB075CC68E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CE1928C-C900-4DDC-9DF3-9CB075CC68E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0BD79B7C-1956-4C00-8F2C-A6ABFB86AA51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BD79B7C-1956-4C00-8F2C-A6ABFB86AA51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BD79B7C-1956-4C00-8F2C-A6ABFB86AA51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BD79B7C-1956-4C00-8F2C-A6ABFB86AA51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D39910FE-6CBA-417C-979D-F1817A1DE5A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D39910FE-6CBA-417C-979D-F1817A1DE5A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D39910FE-6CBA-417C-979D-F1817A1DE5A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D39910FE-6CBA-417C-979D-F1817A1DE5A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6451B1A9-250C-48C8-A7ED-5D5A97095245}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6451B1A9-250C-48C8-A7ED-5D5A97095245}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6451B1A9-250C-48C8-A7ED-5D5A97095245}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6451B1A9-250C-48C8-A7ED-5D5A97095245}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FDE3D7E5-2466-41D7-89D1-94A18909896B}
+	EndGlobalSection
+EndGlobal
