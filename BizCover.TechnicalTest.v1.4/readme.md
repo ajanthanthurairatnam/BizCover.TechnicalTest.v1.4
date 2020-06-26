@@ -25,20 +25,6 @@ Discount calculation rule:
 3. If cars year is before 2000, apply 10% discount
 4. The above rules are cumulative (i.e. all of them can be applicable at the same time)
 
-#### NOTES
-
-You can complete the solution either using the .Net Framework or .Net Core. Feel free to upgrade/downgrade to a version you have available. The source folders
-are in either ".Net Core" or ".Net Framework" folders in the zip file. You can restructure the solution to your liking and use any 3rd party libraries.
-
-Please upload the completed test to https://www.dropbox.com/request/VYQbQMXUuXUy2eISGVjB (dont need to include .net dependencies/packages) and follow these guidelines:
-* Delete either ".Net Framework" or ".Net Core" folder, whichever one you havent used.
-* If you want to add readme or other files please do so within ".Net Framework" or ".Net Core" folder, whichever you've chosen.
-* Zip your submission (No rar or 7z)
-
-Please DO NOT UPLOAD YOUR CODE to a public site like github, gitlab or bitbucket for instance. 
-
-We can't provide any more information, so please make the relevant assumptions. 
-If you like, you can include documentation/readme on these assumptions.
 
 
 #### HINTS
